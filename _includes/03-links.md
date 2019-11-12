@@ -1,1 +1,1 @@
-[Johnny939 Profile] (https://github.com/Johnny939)
+[Johnny939 Profile](https://github.com/Johnny939)
